@@ -1,7 +1,4 @@
-// IMA NYU Shanghai
-// Kinetic Interfaces
-// MOQN
-// Sep 27 2016
+// Codes by JH Moon and Dan Shiffman used as reference
 
 
 import processing.video.*;
