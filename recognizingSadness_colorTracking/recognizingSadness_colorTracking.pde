@@ -42,7 +42,7 @@ void setup() {
   cam.start();
   img = createImage(640, 480, ARGB);
 
-  trackColor = color(141, 51, 81);//not RGBA
+  trackColor = color(52, 109, 140);//not RGBA
 
   img1 = loadImage("play.jpg");
   img1.resize(100, 0);
